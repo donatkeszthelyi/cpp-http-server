@@ -1,0 +1,17 @@
+build/
+*.o
+*.out
+
+server
+test
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
+
+*.log
+
